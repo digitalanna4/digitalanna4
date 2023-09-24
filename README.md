@@ -1,4 +1,4 @@
-Hi there 👋
+<h1>Hi there 👋</h1>
 
 - 🔭 I’m currently working on creating a Portfolio on Github!
 - 🌱 I’m currently learning C++ to further develop my skills in Unreal Engine.
@@ -7,6 +7,6 @@ Hi there 👋
 - ⚡ Fun fact: I have an art portfolio on [Artstation!](digitalanna.artstation.com) 
 
 <br />
-<br />
 <h2>Projects</h2>
-[Soda Fizz](https://github.com/digitalanna4/Soda-Fizz) 
+
+[Soda Fizz School Project, 2020](https://github.com/digitalanna4/Soda-Fizz)
