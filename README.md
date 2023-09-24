@@ -5,4 +5,4 @@ Hi there 👋
 - 👯 I’m looking to collaborate on short-term Roblox projects.
 - 📫 How to reach me: digitalanna4@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have 3D artwork on Artstation! digitalanna.artstation.com 
+- ⚡ Fun fact: I have an art portfolio on [Artstation!](digitalanna.artstation.com) 
