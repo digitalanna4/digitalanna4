@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning C++ to further develop my skills in Unreal Engine.
 - 👯 I’m looking to collaborate on short-term Roblox projects.
 - 📫 How to reach me: digitalanna4@gmail.com
-- ⚡ Fun fact: I have an art portfolio on [Artstation!](digitalanna.artstation.com) 
 
 <br />
 <h2>Projects</h2>
