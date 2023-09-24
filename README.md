@@ -9,4 +9,5 @@
 <br />
 <h2>Projects</h2>
 
-[Soda Fizz School Project, 2020](https://github.com/digitalanna4/Soda-Fizz)
+<h3>2020</h3>
+[Soda Fizz School Project](https://github.com/digitalanna4/Soda-Fizz)
